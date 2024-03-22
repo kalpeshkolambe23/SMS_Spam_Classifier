@@ -42,6 +42,8 @@ This project is created with below technologies/tools/resources:
 5. [Model Evaluation]
 6. [Model Deployement]
 
+# Description of project pipeline
+
 1. Data Cleaning : 
 * Process of identifying and correcting errors or inconsistencies in data to improve its quality and reliability.
 
