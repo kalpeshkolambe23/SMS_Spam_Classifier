@@ -66,6 +66,6 @@ This project is created with below technologies/tools/resources:
 
   
   
-# Thanks & Regards
+Thanks & Regards
 # Kalpesh Kolambe
   
