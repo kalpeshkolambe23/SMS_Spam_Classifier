@@ -50,9 +50,9 @@ if st.button('Predict'):
     result = model.predict(vector_input)[0]
 
     if result == 1:
-        st.header('The Message is Spam')
+        st.header('This message/Email is spam')
     else:
-        st.header('The Message is not spam')
+        st.header('This message/Email is not spam')
 
 
 
