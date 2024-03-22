@@ -1,9 +1,9 @@
 # SMS/Email Spam Prediction
 
 
-UI of Application:-
+# UI of Application:-
 
-Application URL Links : 
+Application URL Links : https://sms-email-spamclassifier.streamlit.app/
 
 
 
