@@ -6,7 +6,8 @@
 Application URL Links : https://sms-email-spamclassifier.streamlit.app/
 
 # UI Photo :
-![image](https://github.com/kalpeshkolambe23/SMS_Spam_Classifier/assets/134715363/e49b7eae-a029-461e-a09e-a3c94f247f98)
+![image](https://github.com/kalpeshkolambe23/SMS_Spam_Classifier/assets/134715363/53d08342-ca0d-4e98-aeea-be2864a7549b)
+
 
 
 
